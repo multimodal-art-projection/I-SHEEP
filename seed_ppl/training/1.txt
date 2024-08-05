@@ -1,0 +1,10 @@
+   16  pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   17  pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   21  pip3 install tensorboard -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   64  pip3 install accelerate==0.21.0 -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   65  pip3 install sentencepiece -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   66  pip3 install fire -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   68  pip3 install datasets -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   70  pip3 install git+https://github.com/huggingface/peft.git@e536616888d51b453ed354a6f1e243fecb02ea08 -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   72  pip3 install deepspeed -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+   79  history | grep 'pip3 install' > 1.txt

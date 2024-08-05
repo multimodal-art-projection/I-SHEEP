@@ -1,0 +1,1 @@
+"<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n你好!<|im_end|>\n<|im_start|>assistant\n"
