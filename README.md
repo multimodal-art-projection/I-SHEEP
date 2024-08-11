@@ -1,1 +1,1 @@
-# I-SHEEP: Iterative Self-enHancEmEnt Paradigm of LLMs through Self-Instruct and Self-Assessment
+# I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm
