@@ -12,7 +12,7 @@ We then perform self-assessment, allowing the model to monitor and assess its le
 By filtering out incorrect cognitions and retaining accurate ones, LLMs can self-align by training themselves with these correct cognitions.
 Through iterative repetition of this process, the model can continuously and autonomously align from scratch, relying solely on its internal knowledge.
 
-
+![The Pipeline of I-SHEEP. ](https://github.com/multimodal-art-projection/I-SHEEP/blob/main/I-SHEEP.png)
 
 ## Background
 
