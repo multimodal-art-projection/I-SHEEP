@@ -32,8 +32,8 @@ What factors influence continuous self-enhancement?
 Detailed answers to these questions can be found in the results section of the paper.
 
 ## Usage
+This is an unoptimized version of the code, which is the same as what we used during the actual run.
 This work is still in progress. We may update the code and data as we make progress. Please be cautious about the version control. 
-This is just an unoptimized version of the code, which is the same as what we used during the actual run.
 
 ###  Directly Run
 Here are the scripts for I-SHEEP:
@@ -42,7 +42,7 @@ cd seed_ppl/scripts
 sh qwen72B_all.sh
 ```
 
-## Step-by-step Run
+### Step-by-step Run
 Each iteration executes instructions, including self-synthesize, self-assess, filter, and SFT. The specific code is as follows:
 ```
 lora_output_dir=/ML-A100/team/mm/eamon/self_instruction/seed_ppl/qwen72B_models
