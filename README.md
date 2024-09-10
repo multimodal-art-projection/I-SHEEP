@@ -1,7 +1,8 @@
 # I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm
 This repository contains code and data for the [I-SHEEP paper](https://arxiv.org/abs/2408.08072), which introduces an iterative self-enhancement paradigm enabling LLMs to continuously self-align from scratch with nothing.
 
-The checkpoints of I-SHEEP will be released in the HuggingFace soon (delayed due to server migration).
+The checkpoints of I-SHEEP are available at [I-SHEEP-Models](https://huggingface.co/yimingliang/I-SHEEP-Models).
+We also share our datasets on huggingface, [I-SHEEP-Self-Data](https://huggingface.co/datasets/yimingliang/I-SHEEP-Self-Data).
 
 ## Introduction
 The I-SHEEP framework takes the base model and small seed dataset as input, aligns the base
